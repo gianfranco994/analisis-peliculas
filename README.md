@@ -20,6 +20,5 @@ El objetivo era crear un dataset personalizado y responder preguntas como:
 
 ## Gráficos
 Aquí está un gráfico de los géneros más frecuentes:
-![Gráfico de géneros](generos.png)
-
+![Plataformas](https://github.com/user-attachments/assets/2844beba-41dc-418f-ac03-e80455ba9864)
 ¡Gracias por ver mi proyecto! 😊
